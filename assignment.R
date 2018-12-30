@@ -12,3 +12,18 @@ summary(aov(cbind(Moisture, OM, pH, P, NO3, NH4)~as.factor(Habitat), data=soil))
 
 soil_fungi <- read.csv(file = "soil_fungi.csv")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#het werkt
